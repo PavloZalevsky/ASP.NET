@@ -17,4 +17,3 @@ namespace MvcMovie.Models
         public DbSet<Movie> Movies { get; set; }
     }
 }
-}
